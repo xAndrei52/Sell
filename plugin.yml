@@ -2,8 +2,8 @@ name: Sell
 api: [3.0.0]
 main: SellHand\Main
 version: 3.0.0
-author: [Muqsit]
-authors: [KairusDarkSeeker, JackMD]
+author: [itzandrei100]
+authors: [itzandrei00, JackMD]
 depend: EconomyAPI
 commands:
   sell:

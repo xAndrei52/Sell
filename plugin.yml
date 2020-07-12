@@ -14,9 +14,9 @@ permissions:
     default: op
     children:
       sell.hand:
-        default: op
+        default: true
       sell.all:
-        default: op
+        default: true
       sell.command:
         default: true
 ...
